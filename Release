@@ -8,5 +8,5 @@ Components: main
 Description: My own repo with small tweaks that I make
 
 SHA256:
- 749efa942533cfd468cdcffdb0c35889bf8a058e431ed2885729c2435f2f18ee 561 Packages.bz2
- c778af7032f9a52330f38a56f72f8da53795b21dada708b32b9d8c8ab2334fbf 552 Packages.xz
+ 0863103cc1008fbdf9a39a61bd2ff94b67c768db873bd3f9e26a137476b65416 552 Packages.bz2
+ d516d1e8fed37669b93690b2f9d0915c054aff3caf74d103bdf3a30b16a0a700 552 Packages.xz
